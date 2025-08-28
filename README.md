@@ -55,8 +55,8 @@ For the last **2 years**, I've been working at **Naxtre Technologies Pvt. Ltd.**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayshankar754&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayshankar754&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UdayShankarPurbey&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayShankarPurbey&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -73,8 +73,8 @@ For the last **2 years**, I've been working at **Naxtre Technologies Pvt. Ltd.**
 
 ## 📫 Let's Connect
 
-- [GitHub](https://github.com/udayshankar754)  
-- 📧 uday.naxtre@gmail.com
+- [GitHub](https://github.com/UdayShankarPurbey)  
+- 📧 purbeyudaykumar@gmail.com
 
 ---
 
