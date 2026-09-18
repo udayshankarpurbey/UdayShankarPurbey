@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="https://github.com/udayshankarpurbey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/uday-shankar-purbey"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/uday-shankar-purbey-17a4a81a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/udayshankarpurbey"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://udaykumarpurbey.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://uday-shankar-purbey.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -291,18 +291,25 @@ Work taken on outside of Naxtre.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Angular Material](https://img.shields.io/badge/-Angular_Material-3F51B5?style=flat&logo=angular&logoColor=white)
+![NG-ZORRO](https://img.shields.io/badge/-NG--ZORRO-1890FF?style=flat&logo=antdesign&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/-PrimeNG-1976D2?style=flat&logo=prime&logoColor=white)
 
 **Backend:**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3068B7?style=flat&logo=zod&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
@@ -313,6 +320,7 @@ Work taken on outside of Naxtre.
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -321,6 +329,7 @@ Work taken on outside of Naxtre.
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Portfolio**](https://github.com/udayshankarpurbey/portfolio) · [🌐 Live](https://uday-shankar-purbey.netlify.app/) | My personal portfolio — Angular 21 (standalone, zoneless, signals), SCSS, Web3Forms-backed contact form, deployed on Netlify. | Angular · SCSS |
 | [**EHealthVault**](https://github.com/udayshankarpurbey/EHealthVault) | Digital platform to securely store, manage and share personal medical history and documents. | Node.js · Astro |
 | [**WalletIQ**](https://github.com/udayshankarpurbey/WalletIQ) | Smart personal-finance app to track expenses, savings and money habits. | Full Stack |
 | [**Trycoon-Trails**](https://github.com/udayshankarpurbey/Trycoon-Trails) | Lightweight trials platform for sharing and reviewing product try-on experiences. | Full Stack |
@@ -332,8 +341,28 @@ Work taken on outside of Naxtre.
 ## 📊 GitHub Stats
 
 <p align="center">
+  <a href="https://github.com/udayshankarpurbey?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/udayshankarpurbey?label=Followers&style=for-the-badge&color=36BCF7&labelColor=1a1b27&logo=github" />
+  </a>
+  <a href="https://github.com/udayshankarpurbey?tab=repositories">
+    <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?color=36BCF7&label=Public%20Repos&style=for-the-badge&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fudayshankarpurbey&labelColor=1a1b27&logo=github" />
+  </a>
+  <a href="https://github.com/udayshankarpurbey">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=udayshankarpurbey&label=Profile%20Views&color=36BCF7&style=for-the-badge&base=200" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=udayshankarpurbey&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayshankarpurbey&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" height="170" src="https://streak-stats.demolab.com?user=udayshankarpurbey&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=udayshankarpurbey&theme=tokyonight&no-frame=true&column=4&margin-w=10" />
 </p>
 
 ---
@@ -352,9 +381,9 @@ Work taken on outside of Naxtre.
 ## 📫 Let's Connect
 
 - 🐙 **GitHub** — [github.com/udayshankarpurbey](https://github.com/udayshankarpurbey)
-- 💼 **LinkedIn** — [linkedin.com/in/uday-shankar-purbey](https://linkedin.com/in/uday-shankar-purbey)
+- 💼 **LinkedIn** — [linkedin.com/in/uday-shankar-purbey-17a4a81a6](https://www.linkedin.com/in/uday-shankar-purbey-17a4a81a6/)
 - 🧩 **LeetCode** — [leetcode.com/u/udayshankarpurbey](https://leetcode.com/u/udayshankarpurbey)
-- 🌐 **Portfolio** — [udaykumarpurbey.netlify.app](https://udaykumarpurbey.netlify.app/)
+- 🌐 **Portfolio** — [uday-shankar-purbey.netlify.app](https://uday-shankar-purbey.netlify.app/)
 - 📧 **Email** — purbeyudaykumar@gmail.com
 
 ---
