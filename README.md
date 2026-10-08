@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/coding.gif" alt="Coding" width="100%" />
+  <img src="assets/dev-setup.gif" alt="Developer coding the Naxtre website in VS Code, with live previews on a TV, monitor, iPad and phone, beside a wall of project screens" width="100%" />
 </p>
 
 ---
