@@ -4,9 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/udayshankarpurbey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/uday-shankar-purbey-17a4a81a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/udayshankarpurbey/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/udayshankarpurbey"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://uday-shankar-purbey.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/coding.gif" alt="Coding" width="100%" />
 </p>
 
 ---
@@ -21,9 +25,9 @@ Since **October 2023** I've been at **Naxtre Technologies Pvt. Ltd.** as a **Sof
 
 ## 🚀 What I Do
 
-- Build **SPA**s and server-rendered apps with **Angular**, **React** and **Next.js**
+- Build **SPA**s and server-rendered apps with **Angular** & TypeScript
 - Develop and maintain **REST APIs** with Node.js & Express, in JavaScript and TypeScript
-- Design and manage databases across **MySQL**, **SQL Server**, **MongoDB** and **PostgreSQL**
+- Design and manage databases across **MySQL**, **SQL Server** and **MongoDB**
 - Integrate **third-party and AI services** — Claude, OpenAI, Ollama, Apollo.io, payment and telephony gateways
 - Write **Python** for scraping, data extraction and automation pipelines
 - Collaborate in Agile teams to deliver clean, scalable code
@@ -36,7 +40,7 @@ Since **October 2023** I've been at **Naxtre Technologies Pvt. Ltd.** as a **Sof
 
 **Software Developer** &nbsp;·&nbsp; 📍 Mohali, India &nbsp;·&nbsp; 🗓️ `Oct 2023 – Present`
 
-Shipped full-stack features across **15+ production products** — election analytics and campaign tooling, logistics, field-service operations, lead generation and content platforms — owning Angular/React frontends and Node.js backends in agile teams.
+Shipped full-stack features across **15+ production products** — election analytics and campaign tooling, logistics, field-service operations, lead generation and content platforms — owning Angular frontends and Node.js backends in agile teams.
 
 **Impact at a glance**
 
@@ -46,7 +50,7 @@ Shipped full-stack features across **15+ production products** — election anal
 | ⚡ API performance | ~35% faster average response time |
 | 🧩 UI development | 30% faster via shared, lazy-loaded component libraries |
 | 🔗 Team integration | 40% fewer integration bugs through defined API contracts |
-| 📈 Scale | REST APIs handling 1,000+ daily requests |
+| 📈 Scale | REST APIs handling 1,000+ daily requests, peaking at 5,000+ during election result days |
 | 🔐 Security | RBAC + JWT authentication for tier-specific data access |
 
 <br>
@@ -182,15 +186,15 @@ Shipped full-stack features across **15+ production products** — election anal
 </details>
 
 <details>
-<summary><b>🛠️ ServiceOps — Field Service & Safety Inspection</b> &nbsp;·&nbsp; <code>Jun – Jul 2026</code> &nbsp;·&nbsp; <i>Next.js · TypeScript · Node.js · MongoDB · AWS S3</i></summary>
+<summary><b>🛠️ ServiceOps — Field Service & Safety Inspection</b> &nbsp;·&nbsp; <code>Jun – Jul 2026</code> &nbsp;·&nbsp; <i>TypeScript · Node.js · MongoDB · AWS S3</i></summary>
 <br>
 
-**Role:** full-stack — worked across the TypeScript backend and Next.js CMS of this safety-inspection platform.
+**Role:** backend — worked on the TypeScript/Node.js API of this safety-inspection platform.
 
-- Implemented **timezone-aware site scheduling** end to end: timezone support on sites, a `Time-Zone` header driven by the user's locale, and duration formatting to match.
+- Implemented **timezone-aware site scheduling** in the API: timezone support on sites, a `Time-Zone` request header driven by the user's locale, and duration formatting to match.
 - Made **geocoding best-effort** on client create/update so a geocoding failure can never block the write.
 - Migrated the **AWS SDK to v3** and removed static credentials in favour of an **EC2 IAM role** for S3 access; fixed Cloudinary config and validation error handling.
-- Reworked checklist mandatory-item logic, added questionnaire versioning redirects, and handled the Safety Inspection → **ServiceOps rebrand** across the CMS.
+- Reworked the checklist **mandatory-item validation** logic on the backend.
 
 🔗 [ServiceOps](https://serviceops.naxtre.com/)
 
@@ -215,10 +219,11 @@ Shipped full-stack features across **15+ production products** — election anal
 <summary><b>📖 The Perfect Stories</b> &nbsp;·&nbsp; <code>Jul – Sep 2026</code> &nbsp;·&nbsp; <i>WordPress · PHP · Node.js · TypeScript · PostgreSQL</i></summary>
 <br>
 
-**Role:** sole developer of the admin agent, plus the contributor platform.
+**Role:** team contributor — built the AI content agents that write and review the site's blog articles.
 
-- Built the contributor flow on the WordPress site: **registration, login and a contributor dashboard** for submitting stories.
-- Built a **rules-based admin agent** (deterministic, no LLM) that reviews submissions against the contribution guidelines, applies internal-link and SEO fixes, and marks valid posts *Ready for Publication* — batched, with confirmation before anything is trashed.
+- Built a **writer agent** that generates blog articles for the site.
+- Built an **admin agent** that verifies every article against our content parameters, applies **SEO and internal-link fixes**, and flags or rejects anything that doesn't meet the standard before it goes live.
+- Contributed to the contributor flow on the WordPress site: **registration, login and a contributor dashboard** for submitting stories.
 - Built the **Instagram automation pipeline**: a nightly image queue, an AI image worker with ranking, a reels pipeline with Cloudinary upload and GPU render queue, and trending-audio selection with music beds ranked by tone.
 - Automated the daily digest and IG scheduling on `node-cron`, backed by PostgreSQL with email delivery via Nodemailer.
 
@@ -293,8 +298,6 @@ Work taken on outside of Naxtre.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/-Angular_Material-3F51B5?style=flat&logo=angular&logoColor=white)
 ![NG-ZORRO](https://img.shields.io/badge/-NG--ZORRO-1890FF?style=flat&logo=antdesign&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/-PrimeNG-1976D2?style=flat&logo=prime&logoColor=white)
@@ -381,19 +384,10 @@ Work taken on outside of Naxtre.
 ## 📫 Let's Connect
 
 - 🐙 **GitHub** — [github.com/udayshankarpurbey](https://github.com/udayshankarpurbey)
-- 💼 **LinkedIn** — [linkedin.com/in/uday-shankar-purbey-17a4a81a6](https://www.linkedin.com/in/uday-shankar-purbey-17a4a81a6/)
+- 💼 **LinkedIn** — [linkedin.com/in/udayshankarpurbey](https://www.linkedin.com/in/udayshankarpurbey/)
 - 🧩 **LeetCode** — [leetcode.com/u/udayshankarpurbey](https://leetcode.com/u/udayshankarpurbey)
 - 🌐 **Portfolio** — [uday-shankar-purbey.netlify.app](https://uday-shankar-purbey.netlify.app/)
 - 📧 **Email** — purbeyudaykumar@gmail.com
-
----
-
-## ✨ Fun Facts
-
-- 👨‍🎓 Proud BPUT grad
-- 🎨 UI/UX minimalist
-- 🧩 Loves debugging weird edge cases
-- 🎮 Gaming + tech podcasts are my go-to weekend ritual
 
 ---
 
